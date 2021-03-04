@@ -31,7 +31,7 @@ task :update_feed => :environment do
        "今日もよく眠れた？",
        "Good Morning♪",
        "Buenos dias♪",
-      "Hyvää huomenta♪"].sample
+       "Hyvää huomenta♪"].sample
     word2 =
       ["気をつけて行ってきてね☺",
        "良い一日を過ごしてね☺",
